@@ -1,0 +1,12 @@
+clear
+redirect banzhuang0601_circuit.dss
+redirect banzhuang0601_trans.dss
+redirect banzhuang0601_eff.dss
+redirect banzhuang0601_irrcruve.dss
+redirect banzhuang0601_line.dss
+redirect banzhuang0601_loadshape.dss
+redirect banzhuang0601_load.dss
+redirect banzhuang0601_ptcurve.dss
+redirect banzhuang0601_pvsystem.dss
+redirect banzhuang0601_storageloadshape.dss
+redirect banzhuang0601_storage.dss
