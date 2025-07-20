@@ -1,0 +1,24 @@
+clear
+redirect banzhuang0601_circuit.dss
+redirect banzhuang0601_trans.dss
+redirect banzhuang0601_eff.dss
+redirect banzhuang0601_irrcruve.dss
+redirect banzhuang0601_line.dss
+redirect banzhuang0601_loadshape.dss
+redirect banzhuang0601_load.dss
+redirect banzhuang0601_ptcurve.dss
+redirect banzhuang0601_pvsystem.dss
+!redirect banzhuang0601_storageloadshape.dss
+!redirect banzhuang0601_storage.dss
+new monitor.transfor1   element=transformer.10DKX-526385_trafo_19	 terminal=1 ppolar=no mode=1
+
+
+
+
+set  voltagebases=[10, 0.4]
+calcv
+set defaultbasefrequency=50
+set mode=daily
+set number=96
+solve
+show monitor transfor1

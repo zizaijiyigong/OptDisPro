@@ -1,0 +1,18 @@
+New InvControl.10DKX-526385_PVsystem_1_control      DERList=[Pvsystem.10DKX-526385_PVsystem_1]      mode=voltwatt       voltwatt_curve=vv_curve     Enable=TRUE     eventlog=yes
+New InvControl.10DKX-526385_PVsystem_2_control      DERList=[Pvsystem.10DKX-526385_PVsystem_2]      mode=voltwatt       voltwatt_curve=vv_curve     Enable=TRUE
+New InvControl.10DKX-526385_PVsystem_3_control      DERList=[Pvsystem.10DKX-526385_PVsystem_3]      mode=voltwatt       voltwatt_curve=vv_curve     Enable=TRUE
+New InvControl.10DKX-526385_PVsystem_6_control      DERList=[Pvsystem.10DKX-526385_PVsystem_6]      mode=voltwatt       voltwatt_curve=vv_curve     Enable=TRUE
+New InvControl.10DKX-526385_PVsystem_9_control      DERList=[Pvsystem.10DKX-526385_PVsystem_9]      mode=voltwatt       voltwatt_curve=vv_curve     Enable=TRUE
+New InvControl.10DKX-526385_PVsystem_15_control     DERList=[Pvsystem.10DKX-526385_PVsystem_15]     mode=voltwatt       voltwatt_curve=vv_curve     Enable=TRUE
+New InvControl.10DKX-526385_PVsystem_16_control     DERList=[Pvsystem.10DKX-526385_PVsystem_16]     mode=voltwatt       voltwatt_curve=vv_curve     Enable=TRUE
+New InvControl.10DKX-526385_PVsystem_17_control     DERList=[Pvsystem.10DKX-526385_PVsystem_17]     mode=voltwatt       voltwatt_curve=vv_curve     Enable=TRUE
+New InvControl.10DKX-526385_PVsystem_19_control     DERList=[Pvsystem.10DKX-526385_PVsystem_19]     mode=voltwatt       voltwatt_curve=vv_curve     Enable=TRUE
+New InvControl.10DKX-526385_PVsystem_22_control     DERList=[Pvsystem.10DKX-526385_PVsystem_22]     mode=voltwatt       voltwatt_curve=vv_curve     Enable=TRUE
+New InvControl.10DKX-526385_PVsystem_24_control     DERList=[Pvsystem.10DKX-526385_PVsystem_24]     mode=voltwatt       voltwatt_curve=vv_curve     Enable=TRUE
+New InvControl.10DKX-526385_PVsystem_25_control     DERList=[Pvsystem.10DKX-526385_PVsystem_25]     mode=voltwatt       voltwatt_curve=vv_curve     Enable=TRUE
+New InvControl.10DKX-526385_PVsystem_27_control     DERList=[Pvsystem.10DKX-526385_PVsystem_27]     mode=voltwatt       voltwatt_curve=vv_curve     Enable=TRUE
+New InvControl.10DKX-526385_PVsystem_30_control     DERList=[Pvsystem.10DKX-526385_PVsystem_30]     mode=voltwatt       voltwatt_curve=vv_curve     Enable=TRUE
+New InvControl.10DKX-526385_PVsystem_31_control     DERList=[Pvsystem.10DKX-526385_PVsystem_31]     mode=voltwatt       voltwatt_curve=vv_curve     Enable=TRUE
+New InvControl.10DKX-526385_PVsystem_32_control     DERList=[Pvsystem.10DKX-526385_PVsystem_32]     mode=voltwatt       voltwatt_curve=vv_curve     Enable=TRUE
+New InvControl.10DKX-526385_PVsystem_33_control     DERList=[Pvsystem.10DKX-526385_PVsystem_33]     mode=voltwatt       voltwatt_curve=vv_curve     Enable=TRUE
+New InvControl.10DKX-526385_PVsystem_34_control     DERList=[Pvsystem.10DKX-526385_PVsystem_34]     mode=voltwatt       voltwatt_curve=vv_curve     Enable=TRUE

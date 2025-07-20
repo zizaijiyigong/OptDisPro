@@ -1,0 +1,24 @@
+clear
+Set DefaultBaseFrequency=50
+
+redirect dss_1circuit.dss
+redirect dss_2XYCurve_eff.dss
+redirect dss_voltwattcurve.dss
+redirect dss_3XYCurve_ptcurve.dss
+redirect dss_4loadshape_load.dss
+redirect dss_5loadshape_PV.dss
+redirect dss_6transformer.dss
+redirect dss_7Line.dss
+redirect dss_8PVsystem.dss
+redirect dss_PVinvcontrol.dss
+redirect dss_9load.dss
+redirect dss_10storageloadshape.dss
+redirect dss_11storage.dss
+
+
+set  voltagebases=[10, 0.4]
+calcv
+set defaultbasefrequency=50
+set mode=daily
+set number=96
+solve
